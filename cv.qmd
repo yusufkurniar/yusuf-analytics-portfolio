@@ -1,0 +1,12 @@
+---
+title: "CV"
+---
+
+
+## Download
+- [Download my CV (PDF)](assets/resume.pdf)
+
+## Highlights
+- 6+ years in BI, reporting, integration, analytics delivery
+- SQL, Power BI/Tableau, ETL (Pentaho/SSIS), governance documentation
+- Australia Awards Scholar, Master of Business Analytics (Monash)

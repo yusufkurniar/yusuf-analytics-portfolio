@@ -1,0 +1,39 @@
+---
+title: "Business Intelligence & Analytics Portfolio"
+---
+
+
+## Hi, I’m Yusuf.
+I’m a Business Intelligence and Data Analytics professional with **6+ years of experience** delivering reporting, data integration, and analytics solutions across telecommunications, construction, and manufacturing. I’m currently completing a **Master of Business Analytics at Monash University** as an **Australia Awards Scholar**.
+
+**Target roles (Dubai • Malaysia • Jakarta):**
+- BI / Analytics Manager
+- Senior BI Analyst
+- Data & Reporting Lead
+- Analytics Translator (business-to-data)
+
+---
+
+## What I do (in one sentence)
+I help organisations turn messy operational data into trusted reporting, decision-ready metrics, and scalable analytics workflows.
+
+---
+
+## What you’ll find here
+- **Recruiter-friendly project summaries** (what problem, what I built, what impact)
+- Links to **technical GitHub repositories** (reproducible code, READMEs)
+- My **ASP initiative**: practical and ethical analytics learning modules for Indonesian professionals and students
+
+---
+
+## Featured projects
+### 1) Traveller Insight Dashboard (R Shiny)
+Interactive dashboard showing travel trends with filters, maps, and automated insights.  
+**Tools:** R, Shiny, ggplot2, data wrangling, reproducible workflow  
+**Links:** GitHub repo • Live demo (if available)
+
+### 2) Analytics Product & Dashboards (Tableau / BI)
+Selected examples of executive reporting, market insights dashboards, and governance practices (case-based summaries).
+
+> See the full list on the **Projects** page.
+

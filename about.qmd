@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+
+## Profile
+I specialise in business intelligence, enterprise reporting, and analytics delivery — with a focus on building trusted reporting environments, improving data quality, and translating stakeholder needs into scalable solutions. :contentReference[oaicite:2]{index=2}
+
+## Strengths I bring to teams
+- **Business translation:** requirements → metrics → dashboards
+- **Operational reporting:** consistent KPI definitions, governance, audit readiness
+- **Data integration:** ETL pipelines and reporting-ready datasets
+- **Enablement:** training, documentation, and adoption support
+
+## Experience snapshot
+- Data & Reporting Specialist Manager — Centratama Group (2022–2024)  
+- Data Engineer / Tableau Expert — BCI Central (2020–2022)  
+- BI & Data Warehouse — Asahimas Flat Glass (2018–2020) :contentReference[oaicite:3]{index=3}
+
+## Currently
+Master of Business Analytics (Monash University), Australia Awards Scholar.

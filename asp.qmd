@@ -1,0 +1,26 @@
+---
+title: "Allison Sudradjat Prize Initiative"
+---
+
+
+## Purpose
+A free, open-access online learning program to help Indonesian professionals and final-year students build **practical and ethical business analytics skills** grounded in real workplace scenarios.
+
+## Audience
+Early-career professionals and final-year university students preparing for analytics roles.
+
+## What I will deliver
+### Module 1 — Problem Definition & Decision Framing
+### Module 2 — Data Quality & Common Pitfalls
+### Module 3 — Responsible Analytics & Bias Awareness
+### Module 4 — Governance Basics (definitions, ownership, controls)
+### Module 5 — Communicating Insights for Action
+
+## Outputs (portfolio-friendly)
+- Short lesson notes (PDF/HTML)
+- Practice exercises using anonymised datasets
+- A feedback survey summary and improvements loop
+
+## Links
+- GitHub repository: `asp-learning-program`
+- Materials: slides, readings, exercises

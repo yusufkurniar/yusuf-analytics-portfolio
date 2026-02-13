@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+
+## How to read these projects
+Each summary focuses on **business problem**, **my contribution**, and **decision impact**. Technical details and code live in linked repositories.
+
+---
+
+## Project 1 — Traveller Insight Dashboard (R Shiny)
+**Goal:** Provide interactive exploration of traveller patterns by time, category, and geography.  
+**My work:** Data preparation, Shiny architecture, ggplot2 visuals, automated insight text, reproducible structure.  
+**Tools:** R, Shiny, ggplot2, dplyr, leaflet/plotly (as used)  
+**Links:** GitHub repo • Live demo • Short write-up
+
+---
+
+## Project 2 — The X Factor UK (Wikipedia) Data Collection & Analysis
+**Goal:** Collect structured tables across seasons and analyse patterns in acts, judges, and ratings.  
+**My work:** Web scraping pipeline, cleaning, quality checks, visual analysis.  
+**Tools:** R, rvest, tidyverse, reproducible workflow  
+**Links:** GitHub repo • Report
+
+---
+
+## Project 3 — Data Ethics & De-identification (Synthetic Mortgage Dataset)
+**Goal:** Build an ethical documentation approach: data dictionary, anonymisation decisions, governance notes.  
+**My work:** Data dictionary, privacy risk framing, documentation for responsible use.  
+**Tools:** R, documentation standards  
+**Links:** GitHub repo • Documentation

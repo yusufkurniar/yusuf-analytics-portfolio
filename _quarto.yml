@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yusuf Kurnia Romadhon"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: asp.qmd
+        text: ASP Program
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+  page-footer:
+    left: "© 2026 Yusuf Kurnia Romadhon"
+    right:
+      - icon: github
+        href: https://github.com/yusufkurniar
+      - icon: linkedin
+        href: https://www.linkedin.com/in/yusuf-kurnia-romadhon-842049118
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+
+
+
+
