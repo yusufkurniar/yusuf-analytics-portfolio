@@ -1,0 +1,401 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Each summary focuses on business problem, my contribution, and decision impact. Technical details and code live in linked repositories."
+  },
+  {
+    "objectID": "projects.html#how-to-read-these-projects",
+    "href": "projects.html#how-to-read-these-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Each summary focuses on business problem, my contribution, and decision impact. Technical details and code live in linked repositories."
+  },
+  {
+    "objectID": "projects.html#project-1-traveller-insight-dashboard-r-shiny",
+    "href": "projects.html#project-1-traveller-insight-dashboard-r-shiny",
+    "title": "Projects",
+    "section": "Project 1: Traveller Insight Dashboard (R Shiny)",
+    "text": "Project 1: Traveller Insight Dashboard (R Shiny)\nGoal: Provide interactive exploration of traveller patterns by time, category, and geography.\nMy work: Data preparation, Shiny architecture, ggplot2 visuals, automated insight text, reproducible structure.\nTools: R, Shiny, ggplot2, dplyr, leaflet/plotly (as used)\nLinks: GitHub repo • Live demo • Short write-up"
+  },
+  {
+    "objectID": "projects.html#project-2-the-x-factor-uk-wikipedia-data-collection-analysis",
+    "href": "projects.html#project-2-the-x-factor-uk-wikipedia-data-collection-analysis",
+    "title": "Projects",
+    "section": "Project 2: The X Factor UK (Wikipedia) Data Collection & Analysis",
+    "text": "Project 2: The X Factor UK (Wikipedia) Data Collection & Analysis\nGoal: Collect structured tables across seasons and analyse patterns in acts, judges, and ratings.\nMy work: Web scraping pipeline, cleaning, quality checks, visual analysis.\nTools: R, rvest, tidyverse, reproducible workflow\nLinks: GitHub repo • Report"
+  },
+  {
+    "objectID": "projects.html#project-3-data-ethics-de-identification-synthetic-mortgage-dataset",
+    "href": "projects.html#project-3-data-ethics-de-identification-synthetic-mortgage-dataset",
+    "title": "Projects",
+    "section": "Project 3: Data Ethics & De-identification (Synthetic Mortgage Dataset)",
+    "text": "Project 3: Data Ethics & De-identification (Synthetic Mortgage Dataset)\nGoal: Build an ethical documentation approach: data dictionary, anonymisation decisions, governance notes.\nMy work: Data dictionary, privacy risk framing, documentation for responsible use.\nTools: R, documentation standards\nLinks: GitHub repo • Documentation"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#download",
+    "href": "cv.html#download",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#highlights",
+    "href": "cv.html#highlights",
+    "title": "CV",
+    "section": "Highlights",
+    "text": "Highlights\n\n6+ years delivering BI, data integration, and analytics solutions across multiple industries\n\nLed reporting transformation and automation, reducing manual processes and improving decision speed\n\nBuilt and scaled analytics products and dashboards (Power BI, Tableau, Shiny)\n\nStrong focus on data governance, data quality, and stakeholder-driven solutions\n\nAustralia Awards Scholar, Master of Business Analytics (Monash University)"
+  },
+  {
+    "objectID": "asp.html",
+    "href": "asp.html",
+    "title": "Building Ethical Business Analytics Capacity for Professionals and University Students",
+    "section": "",
+    "text": "A free, open-access online learning program to help Indonesian professionals and final-year students build practical and ethical business analytics skills grounded in real workplace scenarios."
+  },
+  {
+    "objectID": "asp.html#purpose",
+    "href": "asp.html#purpose",
+    "title": "Building Ethical Business Analytics Capacity for Professionals and University Students",
+    "section": "",
+    "text": "A free, open-access online learning program to help Indonesian professionals and final-year students build practical and ethical business analytics skills grounded in real workplace scenarios."
+  },
+  {
+    "objectID": "asp.html#audience",
+    "href": "asp.html#audience",
+    "title": "Building Ethical Business Analytics Capacity for Professionals and University Students",
+    "section": "Audience",
+    "text": "Audience\nEarly-career professionals and final-year university students preparing for analytics roles."
+  },
+  {
+    "objectID": "asp.html#what-i-will-deliver",
+    "href": "asp.html#what-i-will-deliver",
+    "title": "Allison Sudradjat Prize Initiative",
+    "section": "What I will deliver",
+    "text": "What I will deliver\n\nModule 1: Problem Definition & Decision Framing\n\n\nModule 2: Data Quality & Common Pitfalls\n\n\nModule 3: Responsible Analytics & Bias Awareness\n\n\nModule 4: Governance Basics (definitions, ownership, controls)\n\n\nModule 5: Communicating Insights for Action"
+  },
+  {
+    "objectID": "asp.html#outputs-portfolio-friendly",
+    "href": "asp.html#outputs-portfolio-friendly",
+    "title": "Building Ethical Business Analytics Capacity for Indonesian Professionals and University Students",
+    "section": "Outputs (portfolio-friendly)",
+    "text": "Outputs (portfolio-friendly)\n\nShort lesson notes (PDF/HTML)\nPractice exercises using anonymised datasets\nA feedback survey summary and improvements loop"
+  },
+  {
+    "objectID": "asp.html#links",
+    "href": "asp.html#links",
+    "title": "Building Ethical Business Analytics Capacity for Professionals and University Students",
+    "section": "Links",
+    "text": "Links\n\nGitHub repository: business-analytics-learning-program\nMaterials: slides, readings, exercises"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a data analytics professional with over 6 years of experience delivering enterprise reporting, data integration, and analytics solutions across multiple industries.\nMy work focuses on transforming fragmented data and manual reporting into reliable, scalable analytics systems that support operational and strategic decision making. I have experience building analytics products, improving data governance, and delivering solutions that create measurable business impact.\nI am particularly interested in how analytics, systems, and governance work together to enable effective data driven organisations."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "I am a data analytics professional with over 6 years of experience delivering enterprise reporting, data integration, and analytics solutions across multiple industries.\nMy work focuses on transforming fragmented data and manual reporting into reliable, scalable analytics systems that support operational and strategic decision making. I have experience building analytics products, improving data governance, and delivering solutions that create measurable business impact.\nI am particularly interested in how analytics, systems, and governance work together to enable effective data driven organisations."
+  },
+  {
+    "objectID": "about.html#strengths-i-bring-to-teams",
+    "href": "about.html#strengths-i-bring-to-teams",
+    "title": "About",
+    "section": "Strengths I bring to teams",
+    "text": "Strengths I bring to teams\n\nBusiness translation: connecting business needs to metrics and analytics solutions\n\nData systems and integration: designing scalable data pipelines and reporting environments\n\nData governance and quality: ensuring consistency, reliability, and trust in data\n\nStakeholder engagement: aligning requirements, managing expectations, and driving adoption"
+  },
+  {
+    "objectID": "about.html#experience-snapshot",
+    "href": "about.html#experience-snapshot",
+    "title": "About",
+    "section": "Experience snapshot",
+    "text": "Experience snapshot\n\nData & Reporting Specialist Manager – Centratama Group (2022–2024)\nLed enterprise reporting transformation and data governance implementation\n\nData Engineer / Tableau Expert – BCI Central (2020–2022)\nContributed to the development and scaling of the Analytix analytics product\n\nBI & Data Warehouse – Asahimas Flat Glass (2018–2020)\nImplemented BI solutions across multiple departments to digitise reporting processes"
+  },
+  {
+    "objectID": "about.html#currently",
+    "href": "about.html#currently",
+    "title": "About",
+    "section": "Currently",
+    "text": "Currently\nMaster of Business Analytics (Monash University), Australia Awards Scholar.\nBuilding advanced capabilities in analytics, data science, and scalable data systems.\nAlso serving as an ILLA Ambassador, supporting Indonesian language learning and cross-cultural communication."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "• Email: yusufkurniaromadhon@gmail.com\n• LinkedIn: Yusuf Kurnia Romadhon\n• GitHub: yusufkurniar\nI am open to opportunities in data analytics, business intelligence, and data science roles.\nFeel free to reach out for collaboration, discussion, or opportunities."
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "• Email: yusufkurniaromadhon@gmail.com\n• LinkedIn: Yusuf Kurnia Romadhon\n• GitHub: yusufkurniar\nI am open to opportunities in data analytics, business intelligence, and data science roles.\nFeel free to reach out for collaboration, discussion, or opportunities."
+  },
+  {
+    "objectID": "contact.html#location",
+    "href": "contact.html#location",
+    "title": "Contact",
+    "section": "Location",
+    "text": "Location\nMelbourne, Australia\nOpen to opportunities in Dubai, Malaysia, and Indonesia after graduation"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yusuf Kurnia Romadhon",
+    "section": "",
+    "text": "I am a data analytics professional with over 6 years of experience delivering enterprise reporting, data integration, and analytics solutions across multiple industries. I am currently undertaking a Master of Business Analytics at Monash University as an Australia Awards Scholar.\nMy work focuses on transforming fragmented data and manual reporting into reliable, scalable analytics systems that support operational and strategic decision making. I have experience building analytics products, improving data governance, and delivering insights that create measurable business impact.\nFocus Areas:\nData Analytics • Data Science • Decision Intelligence • Data Systems & Governance\nPreferred locations:\nCurrent availability: Melbourne, Australia\nOpen to international opportunities post-graduation\n\n6+ years experience • Business Intelligence & Analytics • Australia Awards Scholar"
+  },
+  {
+    "objectID": "index.html#hi-im-yusuf.",
+    "href": "index.html#hi-im-yusuf.",
+    "title": "Business Intelligence & Analytics Portfolio",
+    "section": "",
+    "text": "I’m a Business Intelligence and Data Analytics professional with 6+ years of experience delivering reporting, data integration, and analytics solutions across telecommunications, construction, and manufacturing. I’m currently completing a Master of Business Analytics at Monash University as an Australia Awards Scholar.\nTarget roles (Dubai • Malaysia • Jakarta): - BI / Analytics Manager - Senior BI Analyst - Data & Reporting Lead - Analytics Translator (business-to-data)"
+  },
+  {
+    "objectID": "index.html#what-i-do-in-one-sentence",
+    "href": "index.html#what-i-do-in-one-sentence",
+    "title": "Business Intelligence & Analytics Portfolio",
+    "section": "What I do (in one sentence)",
+    "text": "What I do (in one sentence)\nI help organisations turn messy operational data into trusted reporting, decision-ready metrics, and scalable analytics workflows."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Business Intelligence & Analytics Portfolio",
+    "section": "What you’ll find here",
+    "text": "What you’ll find here\n\nRecruiter-friendly project summaries (what problem, what I built, what impact)\nLinks to technical GitHub repositories (reproducible code, READMEs)\nMy ASP initiative: practical and ethical analytics learning modules for Indonesian professionals and students"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Business Intelligence & Analytics Portfolio",
+    "section": "Featured projects",
+    "text": "Featured projects\n\n1) Traveller Insight Dashboard (R Shiny)\nInteractive dashboard showing travel trends with filters, maps, and automated insights.\nTools: R, Shiny, ggplot2, data wrangling, reproducible workflow\nLinks: GitHub repo • Live demo (if available)\n\n\n2) Analytics Product & Dashboards (Tableau / BI)\nSelected examples of executive reporting, market insights dashboards, and governance practices (case-based summaries).\n\nSee the full list on the Projects page."
+  },
+  {
+    "objectID": "index.html#yusuf-kurnia-romadhon",
+    "href": "index.html#yusuf-kurnia-romadhon",
+    "title": "Business Intelligence & Analytics Portfolio",
+    "section": "",
+    "text": "Business Intelligence & Analytics Professional\nI am a Business Intelligence and Data Analytics professional with over 6 years of experience delivering reporting, analytics, and data integration solutions across multiple industries. I am currently undertaking a Master of Business Analytics at Monash University as an Australia Awards Scholar.\nI specialise in helping organisations turn fragmented data and inconsistent reporting into trusted, decision-ready analytics used by business and executive stakeholders.\nTarget roles:\nBusiness Intelligence Manager • Senior BI Analyst • Analytics Lead\nPreferred locations:\nDubai • Malaysia • Jakarta\n\n6+ years experience • Business Intelligence & Analytics • Australia Awards Scholar"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Yusuf Kurnia Romadhon",
+    "section": "What I do",
+    "text": "What I do\nI help organisations transform fragmented data and manual reporting into reliable analytics systems that support operational and strategic decision making.\nMy work typically involves:\n\nLeading the definition of business questions and KPIs with stakeholders.\nDesigning and delivering reporting and analytics solutions aligned to business priorities.\nImproving data quality, governance, and documentation to support consistent decision-making.\nPresenting insights and recommendations to non-technical and executive audiences."
+  },
+  {
+    "objectID": "index.html#how-i-think-about-analytics",
+    "href": "index.html#how-i-think-about-analytics",
+    "title": "Yusuf Kurnia Romadhon",
+    "section": "How I think about analytics",
+    "text": "How I think about analytics\nI believe good analytics is not about tools alone. It is about:\n\nClear problem definition before analysis.\nResponsible and ethical use of data.\nReproducibility and documentation.\nInsights that lead to action, not just dashboards.\nStrong alignment between analytics, business context, and stakeholder needs.\n\nThis mindset guides how I design analytics solutions in both professional and applied academic settings."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Yusuf Kurnia Romadhon",
+    "section": "Selected work",
+    "text": "Selected work\nThis portfolio highlights a selection of analytics projects, including interactive dashboards, data engineering workflows, ethical data documentation, and applied analytics case studies.\nEach project summary focuses on:\n\nThe business problem\nMy role and approach\nThe practical outcome\n\nDetailed project summaries and links to technical repositories are available on the Projects page."
+  },
+  {
+    "objectID": "index.html#business-intelligence-analytics-portfolio",
+    "href": "index.html#business-intelligence-analytics-portfolio",
+    "title": "Yusuf Kurnia Romadhon",
+    "section": "",
+    "text": "I am a data analytics professional with over 6 years of experience delivering enterprise reporting, data integration, and analytics solutions across multiple industries. I am currently undertaking a Master of Business Analytics at Monash University as an Australia Awards Scholar.\nMy work focuses on transforming fragmented data and manual reporting into reliable, scalable analytics systems that support operational and strategic decision making. I have experience building analytics products, improving data governance, and delivering insights that create measurable business impact.\nFocus Areas:\nData Analytics • Data Science • Decision Intelligence • Data Systems & Governance\nPreferred locations:\nCurrent availability: Melbourne, Australia\nOpen to international opportunities post-graduation\n\n6+ years experience • Business Intelligence & Analytics • Australia Awards Scholar"
+  },
+  {
+    "objectID": "asp.html#module",
+    "href": "asp.html#module",
+    "title": "Building Ethical Business Analytics Capacity for Professionals and University Students",
+    "section": "Module",
+    "text": "Module\n\nModule 1: Problem Definition & Decision Framing\n\n\nModule 2: Data Quality & Common Pitfalls\n\n\nModule 3: Responsible Analytics & Bias Awareness\n\n\nModule 4: Governance Basics (definitions, ownership, controls)\n\n\nModule 5: Communicating Insights for Action"
+  },
+  {
+    "objectID": "asp.html#outputs",
+    "href": "asp.html#outputs",
+    "title": "Building Ethical Business Analytics Capacity for Professionals and University Students",
+    "section": "Outputs",
+    "text": "Outputs\n\nShort lesson notes (PDF/HTML)\nPractice exercises using anonymised datasets\nA feedback survey summary and improvements loop"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured Projects",
+    "text": "Featured Projects"
+  },
+  {
+    "objectID": "projects.html#project-1-company-scorecard-dashboard-power-bi",
+    "href": "projects.html#project-1-company-scorecard-dashboard-power-bi",
+    "title": "Projects",
+    "section": "Project 1: Company Scorecard Dashboard (Power BI)",
+    "text": "Project 1: Company Scorecard Dashboard (Power BI)\nGoal: Transform manual KPI reporting into an automated, interactive dashboard for executive decision making.\nMy work: Designed and developed Power BI dashboards, built data models, automated reporting workflows, and aligned KPIs with business needs.\nImpact: Reduced manual reporting effort, improved data reliability, and enabled faster, data-driven decision making across business units.\nTools: Power BI, SQL, Data Modelling\nLinks: Project summary • Screenshots"
+  },
+  {
+    "objectID": "projects.html#project-2-analytix-product-case-study",
+    "href": "projects.html#project-2-analytix-product-case-study",
+    "title": "Projects",
+    "section": "Project 2: Analytix Product Case Study",
+    "text": "Project 2: Analytix Product Case Study\nGoal: Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations.\nMy work: Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.\nImpact: Supported customer growth from ~50 to ~150 users and improved product scalability for real-world usage.\nTools: Tableau, SQL, Data Integration\nLinks: Case study • Product overview"
+  },
+  {
+    "objectID": "projects.html#analytics-projects",
+    "href": "projects.html#analytics-projects",
+    "title": "Projects",
+    "section": "Analytics Projects",
+    "text": "Analytics Projects"
+  },
+  {
+    "objectID": "projects.html#project-3-traveller-insight-dashboard-r-shiny",
+    "href": "projects.html#project-3-traveller-insight-dashboard-r-shiny",
+    "title": "Projects",
+    "section": "Project 3: Traveller Insight Dashboard (R Shiny)",
+    "text": "Project 3: Traveller Insight Dashboard (R Shiny)\nGoal: Provide interactive exploration of traveller patterns by time, category, and geography.\nMy work: Data preparation, Shiny architecture, ggplot2 visuals, automated insight text, reproducible structure.\nTools: R, Shiny, ggplot2, dplyr, leaflet/plotly (as used)\nLinks: Live demo (Shiny App) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-4-data-ethics-de-identification-synthetic-mortgage-dataset",
+    "href": "projects.html#project-4-data-ethics-de-identification-synthetic-mortgage-dataset",
+    "title": "Projects",
+    "section": "Project 4: Data Ethics & De-identification (Synthetic Mortgage Dataset)",
+    "text": "Project 4: Data Ethics & De-identification (Synthetic Mortgage Dataset)\nGoal: Build an ethical documentation approach: data dictionary, anonymisation decisions, governance notes.\nMy work: Data dictionary, privacy risk framing, documentation for responsible use.\nTools: R, documentation standards\nLinks: Report (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#supporting-projects",
+    "href": "projects.html#supporting-projects",
+    "title": "Projects",
+    "section": "Supporting Projects",
+    "text": "Supporting Projects"
+  },
+  {
+    "objectID": "projects.html#project-5-healthcare-associated-infections-analysis-germany",
+    "href": "projects.html#project-5-healthcare-associated-infections-analysis-germany",
+    "title": "Projects",
+    "section": "Project 5: Healthcare-Associated Infections Analysis (Germany)",
+    "text": "Project 5: Healthcare-Associated Infections Analysis (Germany)\nGoal: Analyse and simulate healthcare-associated infections using structured data and reproducible workflows.\nMy work: Developed an R package, implemented analytical workflows, built visualisations, and integrated a Shiny dashboard for exploration.\nTools: R, Shiny, statistical modelling, reproducible workflows\nLinks: Project page (GitHub Pages) • Live demo (Shiny App) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-6-pedestrian-foot-traffic-analytics-for-advertising-revenue-optimisation",
+    "href": "projects.html#project-6-pedestrian-foot-traffic-analytics-for-advertising-revenue-optimisation",
+    "title": "Projects",
+    "section": "Project 6: Pedestrian Foot Traffic Analytics for Advertising Revenue Optimisation",
+    "text": "Project 6: Pedestrian Foot Traffic Analytics for Advertising Revenue Optimisation\nGoal: Analyse pedestrian traffic patterns to estimate and optimise advertising revenue potential.\nMy work: Applied statistical modelling (including count models), conducted analysis, and interpreted results for business relevance.\nTools: R, statistical modelling, data analysis\nLinks: GitHub repo"
+  },
+  {
+    "objectID": "projects.html#project-7-the-x-factor-uk-wikipedia-data-collection-analysis",
+    "href": "projects.html#project-7-the-x-factor-uk-wikipedia-data-collection-analysis",
+    "title": "Projects",
+    "section": "Project 7: The X Factor UK (Wikipedia) Data Collection & Analysis",
+    "text": "Project 7: The X Factor UK (Wikipedia) Data Collection & Analysis\nGoal: Collect structured tables across seasons and analyse patterns in acts, judges, and ratings.\nMy work: Web scraping pipeline, cleaning, quality checks, visual analysis.\nTools: R, rvest, tidyverse, reproducible workflow\nLinks: GitHub repo • Report"
+  },
+  {
+    "objectID": "projects.html#project-8-population-projection-analysis",
+    "href": "projects.html#project-8-population-projection-analysis",
+    "title": "Projects",
+    "section": "Project 8: Population Projection Analysis",
+    "text": "Project 8: Population Projection Analysis\nGoal: Analyse long-term population trends and communicate insights through reproducible reporting.\nMy work: Data analysis, visualisation, and Quarto-based reporting.\nTools: R, ggplot2, Quarto\nLinks: GitHub repo • Report"
+  },
+  {
+    "objectID": "projects.html#project-9-yarra-river-water-quality-analysis",
+    "href": "projects.html#project-9-yarra-river-water-quality-analysis",
+    "title": "Projects",
+    "section": "Project 9: Yarra River Water Quality Analysis",
+    "text": "Project 9: Yarra River Water Quality Analysis\nGoal: Explore environmental data to identify patterns in water quality indicators.\nMy work: Data cleaning, exploratory analysis, visualisation.\nTools: R, tidyverse\nLinks: GitHub repo"
+  },
+  {
+    "objectID": "projects.html#project-10-germanysweden-financial-health-comparison",
+    "href": "projects.html#project-10-germanysweden-financial-health-comparison",
+    "title": "Projects",
+    "section": "Project 10: Germany–Sweden Financial Health Comparison",
+    "text": "Project 10: Germany–Sweden Financial Health Comparison\nGoal: Compare firm-level financial performance across countries during the COVID-19 period.\nMy work: Data analysis, comparative evaluation, and interpretation of financial indicators.\nTools: R, data analysis\nLinks: GitHub repo"
+  },
+  {
+    "objectID": "projects.html#project-5-pedestrian-foot-traffic-analytics-for-revenue-optimisation-statistical-modelling",
+    "href": "projects.html#project-5-pedestrian-foot-traffic-analytics-for-revenue-optimisation-statistical-modelling",
+    "title": "Projects",
+    "section": "Project 5: Pedestrian Foot Traffic Analytics for Revenue Optimisation (Statistical Modelling)",
+    "text": "Project 5: Pedestrian Foot Traffic Analytics for Revenue Optimisation (Statistical Modelling)\nGoal: Analyse pedestrian traffic patterns to estimate and optimise advertising revenue potential.\nMy work: Applied statistical modelling (including count models), conducted analysis, and interpreted results for business relevance.\nTools: R, statistical modelling, data analysis\nLinks: Project page (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#core-analytics-data-systems-projects",
+    "href": "projects.html#core-analytics-data-systems-projects",
+    "title": "Projects",
+    "section": "Core Analytics & Data Systems Projects",
+    "text": "Core Analytics & Data Systems Projects"
+  },
+  {
+    "objectID": "projects.html#project-4-pedestrian-foot-traffic-analytics-for-revenue-optimisation-statistical-modelling",
+    "href": "projects.html#project-4-pedestrian-foot-traffic-analytics-for-revenue-optimisation-statistical-modelling",
+    "title": "Projects",
+    "section": "Project 4: Pedestrian Foot Traffic Analytics for Revenue Optimisation (Statistical Modelling)",
+    "text": "Project 4: Pedestrian Foot Traffic Analytics for Revenue Optimisation (Statistical Modelling)\nGoal: Analyse pedestrian traffic patterns to estimate and optimise advertising revenue potential.\nMy work: Applied statistical modelling (including count models), conducted analysis, and interpreted results for business relevance.\nTools: R, statistical modelling, data analysis\nLinks: Project page (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-5-data-ethics-de-identification-synthetic-mortgage-dataset",
+    "href": "projects.html#project-5-data-ethics-de-identification-synthetic-mortgage-dataset",
+    "title": "Projects",
+    "section": "Project 5: Data Ethics & De-identification (Synthetic Mortgage Dataset)",
+    "text": "Project 5: Data Ethics & De-identification (Synthetic Mortgage Dataset)\nGoal: Build an ethical documentation approach: data dictionary, anonymisation decisions, governance notes.\nMy work: Data dictionary, privacy risk framing, documentation for responsible use.\nTools: R, documentation standards\nLinks: Report (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#advanced-analysis-projects",
+    "href": "projects.html#advanced-analysis-projects",
+    "title": "Projects",
+    "section": "Advanced Analysis Projects",
+    "text": "Advanced Analysis Projects"
+  },
+  {
+    "objectID": "projects.html#project-6-yarra-river-water-quality-analysis",
+    "href": "projects.html#project-6-yarra-river-water-quality-analysis",
+    "title": "Projects",
+    "section": "Project 6: Yarra River Water Quality Analysis",
+    "text": "Project 6: Yarra River Water Quality Analysis\nGoal: Explore environmental data to identify patterns in water quality indicators.\nMy work: Data cleaning, exploratory analysis, visualisation.\nTools: R, tidyverse\nLinks: Project page (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-7-germanysweden-financial-health-comparison",
+    "href": "projects.html#project-7-germanysweden-financial-health-comparison",
+    "title": "Projects",
+    "section": "Project 7: Germany–Sweden Financial Health Comparison",
+    "text": "Project 7: Germany–Sweden Financial Health Comparison\nGoal: Compare firm-level financial performance across countries during the COVID-19 period.\nMy work: Data analysis, comparative evaluation, and interpretation of financial indicators.\nTools: R, data analysis\nLinks: Project page (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-8-healthcare-associated-infections-analysis-germany",
+    "href": "projects.html#project-8-healthcare-associated-infections-analysis-germany",
+    "title": "Projects",
+    "section": "Project 8: Healthcare-Associated Infections Analysis (Germany)",
+    "text": "Project 8: Healthcare-Associated Infections Analysis (Germany)\nGoal: Analyse and simulate healthcare-associated infections using structured data and reproducible workflows.\nMy work: Developed an R package, implemented analytical workflows, built visualisations, and integrated a Shiny dashboard for exploration.\nTools: R, Shiny, statistical modelling, reproducible workflows\nLinks: Project page (GitHub Pages) • Live demo (Shiny App) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-9-the-x-factor-uk-wikipedia-data-collection-analysis",
+    "href": "projects.html#project-9-the-x-factor-uk-wikipedia-data-collection-analysis",
+    "title": "Projects",
+    "section": "Project 9: The X Factor UK (Wikipedia) Data Collection & Analysis",
+    "text": "Project 9: The X Factor UK (Wikipedia) Data Collection & Analysis\nGoal: Collect structured tables across seasons and analyse patterns in acts, judges, and ratings.\nMy work: Web scraping pipeline, cleaning, quality checks, visual analysis.\nTools: R, rvest, tidyverse, reproducible workflow\nLinks: Report (GitHub Pages) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-10-population-projection-analysis",
+    "href": "projects.html#project-10-population-projection-analysis",
+    "title": "Projects",
+    "section": "Project 10: Population Projection Analysis",
+    "text": "Project 10: Population Projection Analysis\nGoal: Analyse long-term population trends and communicate insights through reproducible reporting.\nMy work: Performed data analysis and visualisation, and developed reproducible reporting using Quarto with both PDF and interactive presentation outputs.\nTools: R, ggplot2, Quarto\nLinks: Presentation (GitHub Pages) • Report (PDF) • GitHub repository"
+  }
+]
