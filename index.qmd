@@ -1,39 +1,59 @@
 ---
-title: "Business Intelligence & Analytics Portfolio"
+title: "Yusuf Kurnia Romadhon"
 ---
 
+## Business Intelligence & Analytics Portfolio
 
-## Hi, I’m Yusuf.
-I’m a Business Intelligence and Data Analytics professional with **6+ years of experience** delivering reporting, data integration, and analytics solutions across telecommunications, construction, and manufacturing. I’m currently completing a **Master of Business Analytics at Monash University** as an **Australia Awards Scholar**.
+I am a data analytics professional with over 6 years of experience delivering enterprise reporting, data integration, and analytics solutions across multiple industries. I am currently undertaking a **Master of Business Analytics at Monash University** as an **Australia Awards Scholar**.
 
-**Target roles (Dubai • Malaysia • Jakarta):**
-- BI / Analytics Manager
-- Senior BI Analyst
-- Data & Reporting Lead
-- Analytics Translator (business-to-data)
+My work focuses on transforming fragmented data and manual reporting into reliable, scalable analytics systems that support operational and strategic decision making. I have experience building analytics products, improving data governance, and delivering insights that create measurable business impact.
 
----
+**Focus Areas:**\
+Data Analytics • Data Science • Decision Intelligence • Data Systems & Governance
 
-## What I do (in one sentence)
-I help organisations turn messy operational data into trusted reporting, decision-ready metrics, and scalable analytics workflows.
+**Preferred locations:**\
+Current availability: Melbourne, Australia   
+Open to international opportunities post-graduation
 
----
+------------------------------------------------------------------------
 
-## What you’ll find here
-- **Recruiter-friendly project summaries** (what problem, what I built, what impact)
-- Links to **technical GitHub repositories** (reproducible code, READMEs)
-- My **ASP initiative**: practical and ethical analytics learning modules for Indonesian professionals and students
+**6+ years experience** • **Business Intelligence & Analytics** • **Australia Awards Scholar**
 
----
+## What I do
 
-## Featured projects
-### 1) Traveller Insight Dashboard (R Shiny)
-Interactive dashboard showing travel trends with filters, maps, and automated insights.  
-**Tools:** R, Shiny, ggplot2, data wrangling, reproducible workflow  
-**Links:** GitHub repo • Live demo (if available)
+I help organisations transform fragmented data and manual reporting into reliable analytics systems that support operational and strategic decision making.
 
-### 2) Analytics Product & Dashboards (Tableau / BI)
-Selected examples of executive reporting, market insights dashboards, and governance practices (case-based summaries).
+My work typically involves:
 
-> See the full list on the **Projects** page.
+-   Leading the definition of business questions and KPIs with stakeholders.
+-   Designing and delivering reporting and analytics solutions aligned to business priorities.
+-   Improving data quality, governance, and documentation to support consistent decision-making.
+-   Presenting insights and recommendations to non-technical and executive audiences.
 
+------------------------------------------------------------------------
+
+## How I think about analytics
+
+I believe good analytics is not about tools alone. It is about:
+
+-   Clear problem definition before analysis.
+-   Responsible and ethical use of data.
+-   Reproducibility and documentation.
+-   Insights that lead to action, not just dashboards.
+-   Strong alignment between analytics, business context, and stakeholder needs.
+
+This mindset guides how I design analytics solutions in both professional and applied academic settings.
+
+------------------------------------------------------------------------
+
+## Selected work
+
+This portfolio highlights a selection of analytics projects, including interactive dashboards, data engineering workflows, ethical data documentation, and applied analytics case studies.
+
+Each project summary focuses on:
+
+-   The business problem
+-   My role and approach
+-   The practical outcome
+
+Detailed project summaries and links to technical repositories are available on the Projects page.

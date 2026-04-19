@@ -1,1 +1,16 @@
 /* css styles */
+h1, h2 {
+  letter-spacing: -0.5px;
+}
+
+body {
+  font-size: 1.05rem;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.page-footer .nav-footer-right a {
+  font-size: 1.1rem;
+}

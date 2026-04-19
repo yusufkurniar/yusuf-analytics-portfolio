@@ -11,7 +11,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: asp.qmd
-        text: ASP Program
+        text: BA Program
       - href: about.qmd
         text: About
       - href: cv.qmd
@@ -29,7 +29,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true
     smooth-scroll: true
 

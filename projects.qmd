@@ -2,30 +2,95 @@
 title: "Projects"
 ---
 
-
 ## How to read these projects
 Each summary focuses on **business problem**, **my contribution**, and **decision impact**. Technical details and code live in linked repositories.
 
 ---
 
-## Project 1 — Traveller Insight Dashboard (R Shiny)
+## Featured Projects
+
+## Project 1: Company Scorecard Dashboard (Power BI)
+**Goal:** Transform manual KPI reporting into an automated, interactive dashboard for executive decision making.  
+**My work:** Designed and developed Power BI dashboards, built data models, automated reporting workflows, and aligned KPIs with business needs.  
+**Impact:** Reduced manual reporting effort, improved data reliability, and enabled faster, data-driven decision making across business units.  
+**Tools:** Power BI, SQL, Data Modelling  
+**Links:** Project summary • Screenshots  
+
+---
+
+## Project 2: Analytix Product Case Study
+**Goal:** Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations.  
+**My work:** Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.  
+**Impact:** Supported customer growth from ~50 to ~150 users and improved product scalability for real-world usage.  
+**Tools:** Tableau, SQL, Data Integration  
+**Links:** Case study • Product overview  
+
+---
+
+## Core Analytics & Data Systems Projects
+
+## Project 3: Traveller Insight Dashboard (R Shiny)
 **Goal:** Provide interactive exploration of traveller patterns by time, category, and geography.  
 **My work:** Data preparation, Shiny architecture, ggplot2 visuals, automated insight text, reproducible structure.  
 **Tools:** R, Shiny, ggplot2, dplyr, leaflet/plotly (as used)  
-**Links:** GitHub repo • Live demo • Short write-up
+**Links:** [Live demo (Shiny App)](https://yusufkurniar.shinyapps.io/traveller-insights-dashboard/) • [GitHub repository](https://github.com/yusufkurniar/traveller-insights-dashboard)  
 
 ---
 
-## Project 2 — The X Factor UK (Wikipedia) Data Collection & Analysis
-**Goal:** Collect structured tables across seasons and analyse patterns in acts, judges, and ratings.  
-**My work:** Web scraping pipeline, cleaning, quality checks, visual analysis.  
-**Tools:** R, rvest, tidyverse, reproducible workflow  
-**Links:** GitHub repo • Report
+## Project 4: Pedestrian Foot Traffic Analytics for Revenue Optimisation (Statistical Modelling)
+**Goal:** Analyse pedestrian traffic patterns to estimate and optimise advertising revenue potential.  
+**My work:** Applied statistical modelling (including count models), conducted analysis, and interpreted results for business relevance.  
+**Tools:** R, statistical modelling, data analysis  
+**Links:** [Project page (GitHub Pages)](https://yusufkurniar.github.io/pedestrian-foot-traffic-analytics-for-advertising-revenue-optimisation/) • [GitHub repository](https://github.com/yusufkurniar/pedestrian-foot-traffic-analytics-for-advertising-revenue-optimisation)
 
 ---
 
-## Project 3 — Data Ethics & De-identification (Synthetic Mortgage Dataset)
+## Project 5: Data Ethics & De-identification (Synthetic Mortgage Dataset)
 **Goal:** Build an ethical documentation approach: data dictionary, anonymisation decisions, governance notes.  
 **My work:** Data dictionary, privacy risk framing, documentation for responsible use.  
 **Tools:** R, documentation standards  
-**Links:** GitHub repo • Documentation
+**Links:** [Report (GitHub Pages)](https://yusufkurniar.github.io/data-ethics-and-responsible-data-analysis/analysis.html) • [GitHub repository](https://github.com/yusufkurniar/data-ethics-and-responsible-data-analysis)  
+
+---
+
+## Advanced Analysis Projects
+
+## Project 6: Yarra River Water Quality Analysis
+**Goal:** Explore environmental data to identify patterns in water quality indicators.  
+**My work:** Data cleaning, exploratory analysis, visualisation.  
+**Tools:** R, tidyverse  
+**Links:** [Project page (GitHub Pages)](https://yusufkurniar.github.io/yarra-river-water-quality-analysis/) • [GitHub repository](https://github.com/yusufkurniar/yarra-river-water-quality-analysis)  
+
+---
+
+## Project 7: Germany–Sweden Financial Health Comparison
+**Goal:** Compare firm-level financial performance across countries during the COVID-19 period.  
+**My work:** Data analysis, comparative evaluation, and interpretation of financial indicators.  
+**Tools:** R, data analysis  
+**Links:** [Project page (GitHub Pages)](https://yusufkurniar.github.io/germany-sweden-financial-health-comparison/) • [GitHub repository](https://github.com/yusufkurniar/germany-sweden-financial-health-comparison)
+
+---
+
+## Project 8: Healthcare-Associated Infections Analysis (Germany)
+**Goal:** Analyse and simulate healthcare-associated infections using structured data and reproducible workflows.  
+**My work:** Developed an R package, implemented analytical workflows, built visualisations, and integrated a Shiny dashboard for exploration.  
+**Tools:** R, Shiny, statistical modelling, reproducible workflows  
+**Links:** [Project page (GitHub Pages)](https://yusufkurniar.github.io/yusufHAIGermany/) • [Live demo (Shiny App)](https://yusufkurniar.shinyapps.io/yusufHAIGermany/) • [GitHub repository](https://github.com/yusufkurniar/yusufHAIGermany) 
+
+---
+
+## Project 9: The X Factor UK (Wikipedia) Data Collection & Analysis
+**Goal:** Collect structured tables across seasons and analyse patterns in acts, judges, and ratings.  
+**My work:** Web scraping pipeline, cleaning, quality checks, visual analysis.  
+**Tools:** R, rvest, tidyverse, reproducible workflow  
+**Links:** [Report (GitHub Pages)](https://yusufkurniar.github.io/x-factor-uk-winning-patterns/) • [GitHub repository](https://github.com/yusufkurniar/x-factor-uk-winning-patterns)  
+
+---
+
+## Project 10: Population Projection Analysis
+**Goal:** Analyse long-term population trends and communicate insights through reproducible reporting.  
+**My work:** Performed data analysis and visualisation, and developed reproducible reporting using Quarto with both PDF and interactive presentation outputs.  
+**Tools:** R, ggplot2, Quarto  
+**Links:** [Presentation (GitHub Pages)](https://yusufkurniar.github.io/population-projection-analysis/#/title-slide) • [Report (PDF)](https://github.com/yusufkurniar/population-projection-analysis/blob/main/analysis.pdf) • [GitHub repository](https://github.com/yusufkurniar/population-projection-analysis) 
+
+  

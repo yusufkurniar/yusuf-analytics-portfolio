@@ -2,20 +2,32 @@
 title: "About"
 ---
 
-
 ## Profile
-I specialise in business intelligence, enterprise reporting, and analytics delivery — with a focus on building trusted reporting environments, improving data quality, and translating stakeholder needs into scalable solutions. :contentReference[oaicite:2]{index=2}
+
+I am a data analytics professional with over 6 years of experience delivering enterprise reporting, data integration, and analytics solutions across multiple industries.
+
+My work focuses on transforming fragmented data and manual reporting into reliable, scalable analytics systems that support operational and strategic decision making. I have experience building analytics products, improving data governance, and delivering solutions that create measurable business impact.
+
+I am particularly interested in how analytics, systems, and governance work together to enable effective data driven organisations.
 
 ## Strengths I bring to teams
-- **Business translation:** requirements → metrics → dashboards
-- **Operational reporting:** consistent KPI definitions, governance, audit readiness
-- **Data integration:** ETL pipelines and reporting-ready datasets
-- **Enablement:** training, documentation, and adoption support
+
+-   **Business translation**: connecting business needs to metrics and analytics solutions\
+-   **Data systems and integration**: designing scalable data pipelines and reporting environments\
+-   **Data governance and quality**: ensuring consistency, reliability, and trust in data\
+-   **Stakeholder engagement**: aligning requirements, managing expectations, and driving adoption
 
 ## Experience snapshot
-- Data & Reporting Specialist Manager — Centratama Group (2022–2024)  
-- Data Engineer / Tableau Expert — BCI Central (2020–2022)  
-- BI & Data Warehouse — Asahimas Flat Glass (2018–2020) :contentReference[oaicite:3]{index=3}
+
+-   Data & Reporting Specialist Manager – Centratama Group (2022–2024)\
+    Led enterprise reporting transformation and data governance implementation\
+-   Data Engineer / Tableau Expert – BCI Central (2020–2022)\
+    Contributed to the development and scaling of the Analytix analytics product\
+-   BI & Data Warehouse – Asahimas Flat Glass (2018–2020)\
+    Implemented BI solutions across multiple departments to digitise reporting processes
 
 ## Currently
-Master of Business Analytics (Monash University), Australia Awards Scholar.
+
+Master of Business Analytics (Monash University), Australia Awards Scholar.  
+Building advanced capabilities in analytics, data science, and scalable data systems.  
+Also serving as an ILLA Ambassador, supporting Indonesian language learning and cross-cultural communication.

@@ -2,11 +2,16 @@
 title: "Contact"
 ---
 
-
 ## Contact
-- Email: yusufkurniaromadhon@gmail.com
-- LinkedIn: [Yusuf Kurnia Romadhon](https://www.linkedin.com/in/yusuf-kurnia-romadhon-842049118/)
-- GitHub: [yusufkurniar](https://github.com/yusufkurniar)
+
+• Email: yusufkurniaromadhon@gmail.com  
+• LinkedIn: Yusuf Kurnia Romadhon  
+• GitHub: yusufkurniar  
+
+I am open to opportunities in data analytics, business intelligence, and data science roles.  
+Feel free to reach out for collaboration, discussion, or opportunities.
 
 ## Location
-Melbourne, Australia (open to Dubai, Malaysia, Jakarta roles)
+
+Melbourne, Australia  
+Open to opportunities in Dubai, Malaysia, and Indonesia after graduation
