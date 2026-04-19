@@ -56,4 +56,4 @@ Each project summary focuses on:
 -   My role and approach
 -   The practical outcome
 
-Detailed project summaries and links to technical repositories are available on the Projects page.
+Detailed project summaries and links to technical repositories are available on the [Projects page](projects.html).
