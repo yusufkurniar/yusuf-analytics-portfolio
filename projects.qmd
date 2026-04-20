@@ -11,16 +11,14 @@ Each summary focuses on **business problem**, **my contribution**, and **decisio
 
 ## Project 1: Company Scorecard Dashboard (Power BI)
 **Goal:** Transform manual KPI reporting into an automated, interactive dashboard for executive decision making.  
-**My work:** Designed and developed Power BI dashboards, built data models, automated reporting workflows, and aligned KPIs with business needs.  
-**Impact:** Reduced manual reporting effort, improved data reliability, and enabled faster, data-driven decision making across business units.  
-**Tools:** Power BI, SQL, Data Modelling  
-**Links:** Project summary • Screenshots  
+**My work:** Designed and developed a multi-page Power BI scorecard dashboard, built a hybrid star schema data model, implemented KPI tracking with thresholds, and created custom visuals using Deneb (Vega-Lite).  
+**Tools:** Power BI (DAX), Deneb (Vega-Lite), Data Modelling, Quarto, GitHub Pages  
+**Links:** [Project showcase & documentation](https://yusufkurniar.github.io/scorecard-telecommunication-company/) • [GitHub repository](https://github.com/yusufkurniar/scorecard-telecommunication-company) • Power BI (.pbix) available in repository      
 
 ---
 
 ## Project 2: Analytix Product Case Study
-**Goal:** Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations.  
-**My work:** Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.  
+**Goal:** Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations.  **My work:** Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.  
 **Impact:** Supported customer growth from ~50 to ~150 users and improved product scalability for real-world usage.  
 **Tools:** Tableau, SQL, Data Integration  
 **Links:** Case study • Product overview  

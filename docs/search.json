@@ -249,14 +249,14 @@
     "href": "projects.html#project-1-company-scorecard-dashboard-power-bi",
     "title": "Projects",
     "section": "Project 1: Company Scorecard Dashboard (Power BI)",
-    "text": "Project 1: Company Scorecard Dashboard (Power BI)\nGoal: Transform manual KPI reporting into an automated, interactive dashboard for executive decision making.\nMy work: Designed and developed Power BI dashboards, built data models, automated reporting workflows, and aligned KPIs with business needs.\nImpact: Reduced manual reporting effort, improved data reliability, and enabled faster, data-driven decision making across business units.\nTools: Power BI, SQL, Data Modelling\nLinks: Project summary • Screenshots"
+    "text": "Project 1: Company Scorecard Dashboard (Power BI)\nGoal: Transform manual KPI reporting into an automated, interactive dashboard for executive decision making.\nMy work: Designed and developed a multi-page Power BI scorecard dashboard, built a hybrid star schema data model, implemented KPI tracking with thresholds, and created custom visuals using Deneb (Vega-Lite).\nTools: Power BI (DAX), Deneb (Vega-Lite), Data Modelling, Quarto, GitHub Pages\nLinks: Project showcase & documentation • GitHub repository • Power BI (.pbix) available in repository"
   },
   {
     "objectID": "projects.html#project-2-analytix-product-case-study",
     "href": "projects.html#project-2-analytix-product-case-study",
     "title": "Projects",
     "section": "Project 2: Analytix Product Case Study",
-    "text": "Project 2: Analytix Product Case Study\nGoal: Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations.\nMy work: Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.\nImpact: Supported customer growth from ~50 to ~150 users and improved product scalability for real-world usage.\nTools: Tableau, SQL, Data Integration\nLinks: Case study • Product overview"
+    "text": "Project 2: Analytix Product Case Study\nGoal: Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations. My work: Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.\nImpact: Supported customer growth from ~50 to ~150 users and improved product scalability for real-world usage.\nTools: Tableau, SQL, Data Integration\nLinks: Case study • Product overview"
   },
   {
     "objectID": "projects.html#analytics-projects",
