@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Each summary focuses on business problem, my contribution, and decision impact. Technical details and code live in linked repositories."
+    "text": "How to read these projects Each summary focuses on business problem, my contribution, and decision impact. Technical details and code live in linked repositories."
   },
   {
     "objectID": "projects.html#how-to-read-these-projects",
     "href": "projects.html#how-to-read-these-projects",
     "title": "Projects",
     "section": "",
-    "text": "Each summary focuses on business problem, my contribution, and decision impact. Technical details and code live in linked repositories."
+    "text": "Each summary focuses on business problem, my contribution, and decision impact. Technical details and code live in linked repositories.\n\nFeatured Projects"
   },
   {
     "objectID": "projects.html#project-1-traveller-insight-dashboard-r-shiny",
@@ -361,7 +361,7 @@
     "href": "projects.html#advanced-analysis-projects",
     "title": "Projects",
     "section": "Advanced Analysis Projects",
-    "text": "Advanced Analysis Projects"
+    "text": "Advanced Analysis Projects\n\nProject 6: Yarra River Water Quality Analysis\nGoal: Explore environmental data to identify patterns in water quality indicators.\nMy work: Data cleaning, exploratory analysis, visualisation.\nTools: R, tidyverse\nLinks: Project page (GitHub Pages) • GitHub repository"
   },
   {
     "objectID": "projects.html#project-6-yarra-river-water-quality-analysis",

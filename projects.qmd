@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-## How to read these projects
+**How to read these projects**
 Each summary focuses on **business problem**, **my contribution**, and **decision impact**. Technical details and code live in linked repositories.
 
 ---
@@ -55,7 +55,7 @@ Each summary focuses on **business problem**, **my contribution**, and **decisio
 
 ## Advanced Analysis Projects
 
-## Project 6: Yarra River Water Quality Analysis
+### Project 6: Yarra River Water Quality Analysis
 **Goal:** Explore environmental data to identify patterns in water quality indicators.  
 **My work:** Data cleaning, exploratory analysis, visualisation.  
 **Tools:** R, tidyverse  
