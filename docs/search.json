@@ -397,5 +397,12 @@
     "title": "Projects",
     "section": "Project 10: Population Projection Analysis",
     "text": "Project 10: Population Projection Analysis\nGoal: Analyse long-term population trends and communicate insights through reproducible reporting.\nMy work: Performed data analysis and visualisation, and developed reproducible reporting using Quarto with both PDF and interactive presentation outputs.\nTools: R, ggplot2, Quarto\nLinks: Presentation (GitHub Pages) • Report (PDF) • GitHub repository"
+  },
+  {
+    "objectID": "projects.html#project-2-bci-analytix-platform-tableau-cjavascript",
+    "href": "projects.html#project-2-bci-analytix-platform-tableau-cjavascript",
+    "title": "Projects",
+    "section": "Project 2: BCI Analytix Platform (Tableau → C++/JavaScript)",
+    "text": "Project 2: BCI Analytix Platform (Tableau → C++/JavaScript)\nGoal: Develop and scale a commercial analytics platform delivering construction industry insights across projects, sectors, and locations.\nMy work: Designed and developed 16 Tableau dashboards (8 for Australia, 8 for Asia) for customer engagement, covering market analysis, relationship mapping, and project tracking. Migrated key dashboards (Key Market Players and Company Overview) into a scalable production system using C++ and JavaScript, including designing Oracle database tables to support the visualisations.\nImpact: Supported product growth from ~50 to ~150 users and improved scalability by transitioning from prototype dashboards to a production-ready system.\nTools: Tableau, C++, JavaScript, Oracle SQL, Data Modelling, Data Integration\nLinks: Platform overview AU (YouTube) • Platform overview Asia (YouTube)\nNote: Due to confidentiality, actual dashboards and datasets cannot be shared. Visuals shown are representative of the platform."
   }
 ]

@@ -17,11 +17,13 @@ Each summary focuses on **business problem**, **my contribution**, and **decisio
 
 ---
 
-## Project 2: Analytix Product Case Study
-**Goal:** Develop and scale a commercial analytics product providing construction industry insights across projects, sectors, and locations.  **My work:** Built Tableau-based prototype dashboards, supported product development, and contributed to transitioning components into a scalable C++ system.  
-**Impact:** Supported customer growth from ~50 to ~150 users and improved product scalability for real-world usage.  
-**Tools:** Tableau, SQL, Data Integration  
-**Links:** Case study • Product overview  
+## Project 2: BCI Analytix Platform (Tableau → C++/JavaScript)
+**Goal:** Develop and scale a commercial analytics platform delivering construction industry insights across projects, sectors, and locations.  
+**My work:** Designed and developed 16 Tableau dashboards (8 for Australia, 8 for Asia) for customer engagement, covering market analysis, relationship mapping, and project tracking. Migrated key dashboards (Key Market Players and Company Overview) into a scalable production system using C++ and JavaScript, including designing Oracle database tables to support the visualisations.  
+**Impact:** Supported product growth from ~50 to ~150 users and improved scalability by transitioning from prototype dashboards to a production-ready system.  
+**Tools:** Tableau, C++, JavaScript, Oracle SQL, Data Modelling, Data Integration  
+**Links:** [Platform overview AU (YouTube)](https://youtu.be/bSUSiP9aFfQ?si=P5cgAWIkOUrje61Q) • [Platform overview Asia (YouTube)](https://youtu.be/mawJrpPSjXc?si=JrtbSBaU3PVCGR7y)  
+**Note:** Due to confidentiality, actual dashboards and datasets cannot be shared. Visuals shown are representative of the platform.  
 
 ---
 
